@@ -2,9 +2,9 @@
 
 This app was designed to take in information about employees and generates an HTML webpage that displays summaries for each person so that an employer can easily track department employees.
 
-! [GIF]()
+! [GIF](https://github.com/Kray93/Employee-Summary/blob/main/output/images/screencastify.gif?raw=true)
 
-! [SS1]()
+! [SS1](https://github.com/Kray93/Employee-Summary/blob/main/output/images/ss1.png?raw=true)
 
 ## Built With
 
